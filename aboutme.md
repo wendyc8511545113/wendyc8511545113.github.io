@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Educator | Curriculum Designer | Web Programmer | Lifelong Learner
+title: About Me
+subtitle: Curriculum Designer | Web Programmer | Lifelong Learner
 ---
 
 # **About Me**  
