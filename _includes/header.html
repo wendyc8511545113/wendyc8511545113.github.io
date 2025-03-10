@@ -28,20 +28,11 @@
             {% if include.type == "page" %}
               <hr class="small">
 
-              <span class="{{ include.type }}-subheading" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                  {{ page.subtitle | strip_html }}
-              </span>
-            {% else %}
-              <h2 class="{{ include.type }}-subheading" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                  {{ page.subtitle | strip_html }}
-              </h2>
-          <!--  ORIGINAL SUBTITLE CODE, REPLACED WITH THE ABOVE
               <span class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</span>
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
             {% endif %}
           {% endif %}
-           -->
           
           {% if include.type == "post" %}
           
