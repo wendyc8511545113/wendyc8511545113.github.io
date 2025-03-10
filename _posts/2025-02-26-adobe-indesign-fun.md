@@ -17,10 +17,10 @@ In a short period, I was able to harness the power of these tools to produce a p
 {% raw %}
 <iframe src="https://indd.adobe.com/view/87bcf18c-2df1-4681-9616-0c509bb48a19" width="100%" height="800px"></iframe>
 {% endraw %}
-
+-->
 Embed Code
 <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/87bcf18c-2df1-4681-9616-0c509bb48a19?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
--->
+
 
 Responsive embed code
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; height:auto;">
