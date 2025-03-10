@@ -39,12 +39,21 @@ layout: page
       <a href="{{ post.url | absolute_url }}">
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
+      {% if post.subtitle %}
+        <h3 class="post-subtitle" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+        {{ post.subtitle | strip_html }}
+        </h3>
+      {% endif %}
+      </a>
+        <!-- ADDED THE ABOVE IF POST.SUBTITLE TO UNWRAP. BELOW IS ORIGINAL
         {% if post.subtitle %}
           <h3 class="post-subtitle">
           {{ post.subtitle | strip_html }}
           </h3>
         {% endif %}
       </a>
+        -->
+
 
       <!-- Hiding as block comment so no post date or author appears
       {% if post.author %}
