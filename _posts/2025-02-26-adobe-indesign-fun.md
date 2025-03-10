@@ -2,7 +2,7 @@
 layout: post
 title: Adobe InDesign Fun
 subtitle: A short project utilitizing InDesign features
-cover-img: assets/img/InDesign AboutMe.png
+cover-img: ""
 thumbnail-img: assets/img/InDesign AboutMe.png
 share-img: /assets/img/path.jpg
 #tags: [books, test]
