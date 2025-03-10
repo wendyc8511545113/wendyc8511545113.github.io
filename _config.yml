@@ -20,11 +20,12 @@ author: Wendy Caffey
 ###############################################
 
 navbar-links:
+  Home: "https://wendyc8511545113.github.io/"  # Added to top of navbar
   About Me: "aboutme"
-  Resources:
+  Projects:  # Renamed, originally titled "Resources:"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://wendyc8511545113.github.io/"
 
 ################
 # --- Logo --- #
