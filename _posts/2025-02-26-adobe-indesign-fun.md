@@ -13,7 +13,6 @@ While taking an Introduction to Digital Media course, I had the opportunity to d
 
 In a short period, I was able to harness the power of these tools to produce a polished and engaging project. The process involved using animation techniques to bring elements to life, incorporating video clips to enhance the narrative, and embedding interactive links to create a seamless and interactive viewer experience. This project allowed me to gain practical skills in digital media design and further explore the versatility of Adobe InDesign as both a layout and interactive design platform.
 
-Embed Code
 <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/87bcf18c-2df1-4681-9616-0c509bb48a19?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
 
 <!--
