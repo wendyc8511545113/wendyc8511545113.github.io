@@ -23,6 +23,7 @@ navbar-links:
   Home: "https://wendyc8511545113.github.io/"  # Added to top of navbar
   About Me: "aboutme"
   Projects:  # Renamed, originally titled "Resources:"
+    - InDesign: "_projects/InDesign About Me"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://wendyc8511545113.github.io/"
