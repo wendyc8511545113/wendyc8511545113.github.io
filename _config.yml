@@ -21,7 +21,7 @@ author: Wendy Caffey
 
 navbar-links:
   About Me: "aboutme"
-  Resume: "_posts/2025-01-01-resume"
+  Resume: "_posts/2025-01-01-resume" "{{wendyc8511545113.github.io}}{{ post.url }}"
   Projects:  
     - InDesign: "_posts/2025-02-26-adobe-indesign-fun.md"
 
