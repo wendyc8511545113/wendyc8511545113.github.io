@@ -58,3 +58,17 @@ _Sam Houston State University_ &nbsp; _2019_<br>
 &nbsp; _Sam Houston State University_ &nbsp; _Huntsville, TX_
 * Developed and implemented virtual camp curriculum during the pandemic, utilizing tools like Blackboard and Google Drive to deliver STEM+C content effectively.
 * Collaborated on the development of training programs for incoming camp counselors and curriculum design for campers, ensuring a high-quality educational experience.
+
+## **Professional Development**				                            
+&nbsp; * Math curriculum writer for a district with over 4,000 teachers and 70,000 students, hosting district-wide professional development introducing the new hyperdoc curcciulum.
+&nbsp; * Science curriculum writer for the district.
+&nbsp; * Team lead for various grade levels and subjects.
+&nbsp; * Onboard specialist for new virtual students and families.
+&nbsp; * Field trip and social committee member.
+&nbsp; * Technology textbooks committee member.
+&nbsp; * Hosted district professional development regarding integrating technology into the classroom. 
+
+## **Research Experience**
+&nbsp; * Conducted research on the virtual classroom, focusing on methodologies to enhance student attendance and participation.
+&nbsp; * Participated in an intercultrual telecollaborative project with Turkish students, creating a multilingual kamishbai story.
+&nbsp; * Participated in professional development courses such as Project Learning Tree, Computational Thinking, Texas Adolescent Literacy Academy (TALA), and Math Leadership.
