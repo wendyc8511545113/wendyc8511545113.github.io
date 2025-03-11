@@ -4,9 +4,9 @@ title: Resume
 subtitle: Curriculum Designer | Web Programmer | Lifelong Learner
 ---
 
-<div style="text-align: center;">
-# **Wendy Caffey**
-</div>  
+<div style="text-align: center; font-size: 36px; font-weight: bold;">
+    Wendy Caffey
+</div> 
 
 ## **Education**
 🎓 Master of Education in Curriculum & Instruction 
