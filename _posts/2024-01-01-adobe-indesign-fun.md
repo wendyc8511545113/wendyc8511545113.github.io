@@ -5,8 +5,6 @@ subtitle: A short project utilitizing InDesign features
 cover-img: ""
 thumbnail-img: assets/img/InDesign AboutMe.png
 share-img: /assets/img/path.jpg
-#tags: [books, test]
-#author: Sharon Smith and Barry Simpson
 ---
 
 While taking an Introduction to Digital Media course, I had the opportunity to dive deeper into the features of Adobe InDesign, an industry-standard tool for design and digital publishing. The course offered hands-on experience with a variety of creative tools, and one of the first assignments was to create a short, dynamic slideshow that incorporated multiple features of InDesign, such as animation, embedded video, and interactive links.
@@ -16,6 +14,10 @@ In a short period, I was able to harness the power of these tools to produce a p
 <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/87bcf18c-2df1-4681-9616-0c509bb48a19?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
 
 <!--
+ORIGINALLY AT THE TOP, BELOW SHARE-IMG:
+tags: [books, test]
+author: Sharon Smith and Barry Simpson
+
 {% raw %}
 <iframe src="https://indd.adobe.com/view/87bcf18c-2df1-4681-9616-0c509bb48a19" width="100%" height="800px"></iframe>
 {% endraw %}
