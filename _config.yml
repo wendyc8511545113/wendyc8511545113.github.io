@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Wendy Caffey's Portfolio
+title: Wendy Caffey
 
 # Your name to show in the footer
 author: Wendy Caffey
@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Projects:  
-    - InDesign: "https://wendyc8511545113.github.io/2024-01-01-adobe-indesign-fun/"
+    - InDesign: "/2024-01-01-adobe-indesign-fun/"
 
 ################
 # --- Logo --- #
