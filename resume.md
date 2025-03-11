@@ -9,10 +9,10 @@ subtitle: Curriculum Designer | Web Programmer | Lifelong Learner
 </div> 
 
 ## **Education**
-🎓 Master of Education in Curriculum & Instruction 
+🎓 Master of Education in Curriculum & Instruction <br>
 _Sam Houston State University_ &nbsp; _2021_<br>
 
-📜 Bachelor of Science in Interdisciplinary Studies
+📜 Bachelor of Science in Interdisciplinary Studies <br>
 _Sam Houston State University_ &nbsp; _2019_<br>
 
 ## **Experience**
@@ -60,15 +60,15 @@ _Sam Houston State University_ &nbsp; _2019_<br>
 * Collaborated on the development of training programs for incoming camp counselors and curriculum design for campers, ensuring a high-quality educational experience.
 
 ## **Professional Development**				                            
-&nbsp; * Math curriculum writer for a district with over 4,000 teachers and 70,000 students, hosting district-wide professional development introducing the new hyperdoc curcciulum.
-&nbsp; * Science curriculum writer for the district.
-&nbsp; * Team lead for various grade levels and subjects.
-&nbsp; * Onboard specialist for new virtual students and families.
-&nbsp; * Field trip and social committee member.
-&nbsp; * Technology textbooks committee member.
+&nbsp; * Math curriculum writer for a district with over 4,000 teachers and 70,000 students, hosting district-wide professional development introducing the new hyperdoc curcciulum. <br>
+&nbsp; * Science curriculum writer for the district. <br>
+&nbsp; * Team lead for various grade levels and subjects. <br>
+&nbsp; * Onboard specialist for new virtual students and families. <br>
+&nbsp; * Field trip and social committee member. <br>
+&nbsp; * Technology textbooks committee member. <br>
 &nbsp; * Hosted district professional development regarding integrating technology into the classroom. 
 
 ## **Research Experience**
-&nbsp; * Conducted research on the virtual classroom, focusing on methodologies to enhance student attendance and participation.
-&nbsp; * Participated in an intercultrual telecollaborative project with Turkish students, creating a multilingual kamishbai story.
-&nbsp; * Participated in professional development courses such as Project Learning Tree, Computational Thinking, Texas Adolescent Literacy Academy (TALA), and Math Leadership.
+&nbsp; * Conducted research on the virtual classroom, focusing on methodologies to enhance student attendance and participation. <br>
+&nbsp; * Participated in an intercultrual telecollaborative project with Turkish students, creating a multilingual kamishbai story. <br>
+&nbsp; * Participated in professional development courses such as Project Learning Tree, Computational Thinking, Texas Adolescent Literacy Academy (TALA), and Math Leadership. <br>
