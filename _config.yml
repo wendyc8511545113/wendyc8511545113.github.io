@@ -23,7 +23,6 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Projects:  
-    - InDesign: "/2024-01-01-adobe-indesign-fun/"
     - InDesign Page: "inDesign"
 
 ################
