@@ -4,71 +4,75 @@ title: Resume
 subtitle: Curriculum Designer | Web Programmer | Lifelong Learner
 ---
 
-<div style="text-align: center; font-size: 36px; font-weight: bold;">
+<!-- Name & Title -->
+<div style="text-align: center; font-size: 42px; font-weight: bold; margin-top: 20px;">
     Wendy Caffey
-</div> 
+</div>
+<div style="text-align: center; font-size: 22px; font-weight: normal; color: gray;">
+    Curriculum Designer | Web Programmer | Lifelong Learner
+</div>
 
-## **Education**
-🎓 Master of Education in Curriculum & Instruction <br>
-_Sam Houston State University_ &nbsp; _2021_<br>
+<hr style="margin: 30px 0;">
 
-📜 Bachelor of Science in Interdisciplinary Studies <br>
-_Sam Houston State University_ &nbsp; _2019_<br>
+## 🎓 **Education**
+**Master of Education in Curriculum & Instruction**  
+*Sam Houston State University* &nbsp; _(2021)_  
 
-## **Experience**
-🧑‍💻 Engagement Specialist 				                            
-&nbsp; _Stride: Lone Star Online Academy_ &nbsp; _Virtual/Remote_			
-* Developed and executed statewide outings, creating opportunities for community bonding and engagement across Texas.
-* Initiated and led adult support programs to provide ongoing resources and guidance to families.
-* Organized and facilitated new family meetings, ensuring smooth onboarding and integration into the community.
-* Monitored and managed social media platforms, engaging with families and fostering a positive online presence.
+**Bachelor of Science in Interdisciplinary Studies**  
+*Sam Houston State University* &nbsp; _(2019)_  
 
-📊 Project Manager					                            
-&nbsp; _Stellar Virtual_ &nbsp; _Virtual/Remote_						                    
-* Manage multiple ERP implementation projects, ensuring successful delivery within scope, budget, and timeline.
-* Conducted project planning, scheduling, and resource allocation for ERP projects.
-* Presented project status reports to clients and internal management, addressing issues and concerns as appropriate.
+---
 
-➗ Virtual Intermediate Math Teacher					         
-&nbsp; _Conroe ISD_ &nbsp; _Conroe, TX, USA_						                   
-* Department chair for Math and Science, leading a team in curriculum development for 5th-grade math and advanced math courses.
-* Played a key role in the curriculum writing team, designing eLearning courses that integrate virtual manipulatives for district-wide use.
-* Led professional development initiatives, organizing and implementing training sessions focused on virtual tools and techniques for the Conroe Virtual Academy and district-wide conventions.
-* Managed multiple projects, ensuring flexibility and organization in response to a growing student population, with a focus on data-driven instructional planning.
+## 💼 **Experience**
 
-📚 Math Interventionist						               
-&nbsp; _Stride: Texas Online Preparatory School_ &nbsp; _Virtual/Remote_           
-* Developed and implemented the RTI instructional system, significantly improving student achievement through targeted intervention strategies.
-* Created and executed weekly live teaching sessions, utilizing age-appropriate technology and virtual tools, including LMS platforms, to enhance learning outcomes.
-* Analyzed benchmarks, checkpoint, and state assessment data to create instructional plans tailored to student needs, collaborating with peers to ensure a positive and effective educational experience.
+### 🧑‍💻 Engagement Specialist  
+**Stride: Lone Star Online Academy** • *Virtual/Remote*  
+📅 _[Start Date] – Present_  
+- Developed and executed statewide outings, creating opportunities for community bonding and engagement across Texas.  
+- Initiated and led adult support programs, providing ongoing resources and guidance to families.  
+- Organized and facilitated new family meetings, ensuring smooth onboarding and integration into the community.  
+- Monitored and managed social media platforms, engaging with families and fostering a positive online presence.  
 
-🌍 Community Engagement Specialist					   
-&nbsp; _Stride: Lone Star Online Academy_ &nbsp;	_Virtual/Remote_         
-* Designed and conducted outreach programs, training, and support sessions for families, fostering a strong sense of community within the school.
-* Developed and presented information sessions for new staff, students, and families, focusing on effective communication and community-building techniques.
-* Utilized the project management tool Asana to coordinate and track outreach initiatives, ensuring timely completion of tasks and efficient collaboration among team members.
-* Analyzed data within NetSuite and Microsoft platforms, using findings to inform and improve outreach efforts.
+### 📊 Project Manager  
+**Stellar Virtual** • *Virtual/Remote*  
+📅 _[Start Date] – [End Date]_  
+- Managed multiple ERP implementation projects, ensuring successful delivery within scope, budget, and timeline.  
+- Conducted project planning, scheduling, and resource allocation for ERP projects.  
+- Presented project status reports to clients and internal management, addressing issues and concerns as appropriate.  
 
-🍎 Elementary Teacher							         
-&nbsp; _Conroe ISD_ &nbsp; _Conroe, TX_								         
-* Supported instructional objectives by planning and delivering course content, preparing learning plans, and using data to identify and address student needs.
-* Maintained accurate student records, including grading, progress reports, and communication with families, ensuring a high standard of educational support.
+### ➗ Virtual Intermediate Math Teacher  
+**Conroe ISD** • *Conroe, TX*  
+📅 _[Start Date] – [End Date]_  
+- Department chair for Math and Science, leading a team in curriculum development for 5th-grade math and advanced math courses.  
+- Designed eLearning courses with virtual manipulatives for district-wide use.  
+- Led professional development initiatives, organizing training sessions on virtual tools and techniques.  
+- Managed multiple projects, ensuring flexibility and organization to meet a growing student population’s needs.  
 
-🔬 STEM+C Camp Leader:  						  
-&nbsp; _Sam Houston State University_ &nbsp; _Huntsville, TX_
-* Developed and implemented virtual camp curriculum during the pandemic, utilizing tools like Blackboard and Google Drive to deliver STEM+C content effectively.
-* Collaborated on the development of training programs for incoming camp counselors and curriculum design for campers, ensuring a high-quality educational experience.
+### 📚 Math Interventionist  
+**Stride: Texas Online Preparatory School** • *Virtual/Remote*  
+📅 _[Start Date] – [End Date]_  
+- Developed and implemented the RTI instructional system, significantly improving student achievement.  
+- Created and executed weekly live teaching sessions, using age-appropriate technology and LMS tools.  
+- Analyzed assessment data to create targeted instructional plans.  
 
-## **Professional Development**				                            
-&nbsp; * Math curriculum writer for a district with over 4,000 teachers and 70,000 students, hosting district-wide professional development introducing the new hyperdoc curcciulum. <br>
-&nbsp; * Science curriculum writer for the district. <br>
-&nbsp; * Team lead for various grade levels and subjects. <br>
-&nbsp; * Onboard specialist for new virtual students and families. <br>
-&nbsp; * Field trip and social committee member. <br>
-&nbsp; * Technology textbooks committee member. <br>
-&nbsp; * Hosted district professional development regarding integrating technology into the classroom. 
+### 🌍 Community Engagement Specialist  
+**Stride: Lone Star Online Academy** • *Virtual/Remote*  
+📅 _[Start Date] – [End Date]_  
+- Designed outreach programs and training sessions for families to foster a strong sense of community.  
+- Utilized Asana for project management and coordinated outreach initiatives.  
+- Analyzed data in NetSuite and Microsoft platforms to improve engagement strategies.  
 
-## **Research Experience**
-&nbsp; * Conducted research on the virtual classroom, focusing on methodologies to enhance student attendance and participation. <br>
-&nbsp; * Participated in an intercultrual telecollaborative project with Turkish students, creating a multilingual kamishbai story. <br>
-&nbsp; * Participated in professional development courses such as Project Learning Tree, Computational Thinking, Texas Adolescent Literacy Academy (TALA), and Math Leadership. <br>
+---
+
+## 📌 **Professional Development**
+- 📌 **Math & Science Curriculum Writing:** Developed hyperdoc curriculum for a district with 4,000+ teachers and 70,000 students.  
+- 🎤 **Professional Development Leader:** Hosted training sessions on integrating technology into the classroom.  
+- 🎓 **Onboarding & Training:** Specialized in onboarding new virtual students and families.  
+- 🌎 **Interdisciplinary Committees:** Served on technology, field trip, and social committees.  
+
+---
+
+## 🔬 **Research Experience**
+- 🖥️ Conducted research on virtual classrooms, focusing on improving student engagement and participation.  
+- 🌍 Collaborated with Turkish students on an intercultural telecollaborative project, co-creating a multilingual kamishibai story.  
+- 📚 Participated in specialized professional development courses including Project Learning Tree, Computational Thinking, Texas Adolescent Literacy Academy (TALA), and Math Leadership.  
