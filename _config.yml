@@ -24,6 +24,7 @@ navbar-links:
   Resume: "resume"
   Projects:  
     - InDesign: "inDesign"
+    - C# Code: "FibonacciCode"
 
 ################
 # --- Logo --- #
