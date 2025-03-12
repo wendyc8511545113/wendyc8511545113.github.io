@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adobe inDesign
+title: Adobe InDesign
 subtitle: A simple project highlighting many interactives
 ---
 
