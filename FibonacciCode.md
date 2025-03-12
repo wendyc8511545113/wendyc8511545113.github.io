@@ -21,6 +21,7 @@ This project is a great introduction to:
 - 🔹 **Algorithm implementation for Fibonacci sequences**
 
 ```csharp
+
 /* Program Overview:
  * This program calculates and displays the Fibonacci number series for a user-specified number.
  * The program will continue to run until the user types "quit" to exit.
@@ -28,6 +29,7 @@ This project is a great introduction to:
  * Main Method: User input loop location
  * Fibo Method: Fibonacci calculation location
  */
+
 using System;
 class FibonacciSeries
 {
@@ -78,6 +80,7 @@ class FibonacciSeries
     }
 
     // Method to calculate Fibonacci series
+
     static bool Fibo(int terms, int[] results)
     {
         // Check for invalid terms
@@ -87,6 +90,7 @@ class FibonacciSeries
         }
 
         // Initialize the first two terms of the Fibonacci sequence
+
         results[0] = 0;
         if (terms > 1)
         {
@@ -94,6 +98,7 @@ class FibonacciSeries
         }
 
         // Calculate remaining Fibonacci terms
+
         for (int i = 2; i < terms; i++)
         {
             results[i] = results[i - 1] + results[i - 2];
