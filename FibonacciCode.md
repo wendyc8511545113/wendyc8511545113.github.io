@@ -18,19 +18,19 @@ This project is a great introduction to:
 - 🔹 **C# programming basics**  
 - 🔹 **Loops and arrays**  
 - 🔹 **Function creation and method calls**  
-- 🔹 **Algorithm implementation for Fibonacci sequences**
+- 🔹 **Algorithm implementation for Fibonacci sequences**  
 
 ```csharp
-
 /* Program Overview:
  * This program calculates and displays the Fibonacci number series for a user-specified number.
  * The program will continue to run until the user types "quit" to exit.
- * 
+ *
  * Main Method: User input loop location
  * Fibo Method: Fibonacci calculation location
  */
 
 using System;
+
 class FibonacciSeries
 {
     static void Main()
@@ -39,7 +39,7 @@ class FibonacciSeries
         while (true)
         {
             // Prompt the user for input
-            Console.WriteLine("Enter a term of the fibonacci number series (or quit to exit)>> ");
+            Console.WriteLine("Enter a term of the Fibonacci number series (or quit to exit): ");
             string userInput = Console.ReadLine();
 
             // Exit program if user enters "quit"
@@ -53,13 +53,13 @@ class FibonacciSeries
             {
                 int[] fibSeries = new int[numTerms];
 
-                // Call the Fibo method to calculate 
+                // Call the Fibo method to calculate
                 bool success = Fibo(numTerms, fibSeries);
 
                 // If calculation successful, print the series
                 if (success)
                 {
-                    Console.WriteLine("Fibonacci series for {0} terms: ", numTerms);
+                    Console.WriteLine($"Fibonacci series for {numTerms} terms:");
                     foreach (var term in fibSeries)
                     {
                         Console.WriteLine(term);
@@ -80,7 +80,6 @@ class FibonacciSeries
     }
 
     // Method to calculate Fibonacci series
-
     static bool Fibo(int terms, int[] results)
     {
         // Check for invalid terms
@@ -90,7 +89,6 @@ class FibonacciSeries
         }
 
         // Initialize the first two terms of the Fibonacci sequence
-
         results[0] = 0;
         if (terms > 1)
         {
@@ -98,7 +96,6 @@ class FibonacciSeries
         }
 
         // Calculate remaining Fibonacci terms
-
         for (int i = 2; i < terms; i++)
         {
             results[i] = results[i - 1] + results[i - 2];
