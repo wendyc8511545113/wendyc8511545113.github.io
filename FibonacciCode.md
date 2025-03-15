@@ -20,35 +20,28 @@ This project is a great introduction to:
 - 🔹 **Function creation and method calls**  
 - 🔹 **Algorithm implementation for Fibonacci sequences**  
 
-```csharp
-
+```csharp <br>
 using System;
 class FibonacciSeries
 {
     static void Main()
     {
-        // User input loop
-        while (true)
+        while (true)  // User input loop
         {
-            // Prompt the user for input
             Console.WriteLine("Enter a term of the Fibonacci number series (or quit to exit): ");
             string userInput = Console.ReadLine();
-
-            // Exit program if user enters "quit"
-            if (userInput.ToLower() == "quit")
+            
+            if (userInput.ToLower() == "quit")  // Exit program if user enters "quit"
             {
                 break;
             }
 
-            // Try to parse the input and ensure it's a valid positive number
-            if (int.TryParse(userInput, out int numTerms) && numTerms > 0)
+            if (int.TryParse(userInput, out int numTerms) && numTerms > 0)   // Try to parse the input and ensure it's a valid positive number
             {
                 int[] fibSeries = new int[numTerms];
 
-                // Call the Fibo method to calculate
                 bool success = Fibo(numTerms, fibSeries);
 
-                // If calculation successful, print the series
                 if (success)
                 {
                     Console.WriteLine($"Fibonacci series for {numTerms} terms:");
@@ -64,7 +57,6 @@ class FibonacciSeries
             }
             else
             {
-                // If input is invalid
                 Console.WriteLine("Error in Fibo. Please enter a valid positive integer.");
                 continue;
             }
@@ -73,21 +65,18 @@ class FibonacciSeries
 
     static bool Fibo(int terms, int[] results)    // Method to calculate Fibonacci series
     {
-        // Check for invalid terms
-        if (terms <= 0 || results == null || results.Length < terms)
+        if (terms <= 0 || results == null || results.Length < terms)  // Check for invalid terms
         {
             return false;
         }
 
-        // Initialize the first two terms of the Fibonacci sequence
-        results[0] = 0;
+        results[0] = 0;   // Initialize the first two terms of the Fibonacci sequence
         if (terms > 1)
         {
             results[1] = 1;
         }
-
-        // Calculate remaining Fibonacci terms
-        for (int i = 2; i < terms; i++)
+        
+        for (int i = 2; i < terms; i++)  // Calculate remaining Fibonacci terms
         {
             results[i] = results[i - 1] + results[i - 2];
         }
