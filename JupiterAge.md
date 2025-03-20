@@ -29,4 +29,47 @@ This **C# program** calculates your **Jupiter age** based on Earth's years. Sinc
       Console.WriteLine($"My new Earth age would be {newEarthAge}.");
       
       double newJupiterAge = newEarthAge / jupiterYears;   // New Age on Jupiter
-      Console.WriteLine($"And my name Jupiter age would be {newJupiterAge}."); 
+      Console.WriteLine($"And my name Jupiter age would be {newJupiterAge}.");
+
+
+
+
+---
+
+### **Enter Your Earth Age**:
+<form id="ageForm">
+    <label for="earthAge">Enter your age in Earth years: </label>
+    <input type="number" id="earthAge" name="earthAge" required>
+    <button type="submit">Calculate</button>
+</form>
+
+<p id="result"></p>
+
+<script>
+  // Function to calculate Jupiter age
+  document.getElementById('ageForm').onsubmit = function(event) {
+    event.preventDefault();  // Prevent page reload on form submission
+
+    const userAge = parseFloat(document.getElementById('earthAge').value);
+    const jupiterYears = 11.86;
+
+    if (isNaN(userAge) || userAge <= 0) {
+      document.getElementById('result').innerHTML = "Please enter a valid age!";
+      return;
+    }
+
+    const jupiterAge = userAge / jupiterYears;
+    const journeyToJupiter = 6.142466;  // Time to Jupiter
+    const newEarthAge = userAge + journeyToJupiter;
+    const newJupiterAge = newEarthAge / jupiterYears;
+
+    document.getElementById('result').innerHTML = `
+      <strong>Your Results:</strong><br>
+      <strong>Earth Age:</strong> ${userAge} Earth years<br>
+      <strong>Jupiter Age:</strong> ${jupiterAge.toFixed(2)} Jupiter years<br>
+      <strong>Time to Jupiter:</strong> ${journeyToJupiter} years<br>
+      <strong>New Earth Age:</strong> ${newEarthAge.toFixed(2)} Earth years<br>
+      <strong>New Jupiter Age:</strong> ${newJupiterAge.toFixed(2)} Jupiter years
+    `;
+  };
+</script>
