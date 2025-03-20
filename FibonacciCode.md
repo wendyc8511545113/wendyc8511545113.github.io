@@ -21,13 +21,13 @@ This project is a great introduction to:
 - 🔹 **Algorithm implementation for Fibonacci sequences**  
 
 ```csharp <br>
-    using System; <br>
-class FibonacciSeries <br>
-{ <br>
-    static void Main() <br>
-    {
-        while (true)  // User input loop
-        {
+                    using System; 
+                    class FibonacciSeries 
+                    { 
+                    static void Main() 
+                    {
+                    while (true)  // User input loop
+                    {
                     Console.WriteLine("Enter a term of the Fibonacci number series (or quit to exit): ");
                     string userInput = Console.ReadLine();
             
