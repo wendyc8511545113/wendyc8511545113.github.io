@@ -19,10 +19,14 @@ subtitle: Curriculum Designer | Web Programmer | Lifelong Learner
 *Sam Houston State University* &nbsp; _(2021)_  
 
 **Bachelor of Science in Interdisciplinary Studies**  
-*Sam Houston State University* &nbsp; _(2019)_  
+ *Sam Houston State University* &nbsp; _(2016)_
 
 **Cloud Computing Level 1 Certification**  
-*Lone Star College* &nbsp; _(2025)_ 
+*Lone Star College* &nbsp; _(2025)_
+
+**Associate of Applied Science in Cloud Computing**  
+*Lone Star College* &nbsp; _(2026)_
+
 ---
 
 ## 💼 **Experience**
