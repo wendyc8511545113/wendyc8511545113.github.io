@@ -21,41 +21,48 @@ subtitle: Curriculum Designer | Web Programmer | Lifelong Learner
 **Bachelor of Science in Interdisciplinary Studies**  
 *Sam Houston State University* &nbsp; _(2019)_  
 
+**Cloud Computing Level 1 Certification**  
+*Lone Star College* &nbsp; _(2025)_ 
 ---
 
 ## 💼 **Experience**
 
 ### 🧑‍💻 Engagement Specialist  
 **Stride: Lone Star Online Academy** • *Virtual/Remote*  
-- Developed and executed statewide outings, creating opportunities for community bonding and engagement across Texas.  
-- Initiated and led adult support programs, providing ongoing resources and guidance to families.  
-- Organized and facilitated new family meetings, ensuring smooth onboarding and integration into the community.  
-- Monitored and managed social media platforms, engaging with families and fostering a positive online presence.  
+- Organized and facilitated new family meetings and adult support opportunities to provide ongoing resources and guidance to families.
+- Created and scheduled social media posts across platforms like Facebook, Instagram, and YouTube to promote school events, deadlines, and student success stories.
+- Developed digital resources and presentations to enhance onboarding and ensure families felt informed and supported.
+- Used Oracle and Microsoft Power Bi with survey data to evaluate engagement trends and adapt strategies for improved participation and connection.
 
 ### 📊 Project Manager  
 **Stellar Virtual** • *Virtual/Remote*   
-- Managed multiple ERP implementation projects, ensuring successful delivery within scope, budget, and timeline.  
-- Conducted project planning, scheduling, and resource allocation for ERP projects.  
-- Presented project status reports to clients and internal management, addressing issues and concerns as appropriate.  
+- Directed cross-functional teams on curriculum design and professional development initiatives, overseeing timelines, deliverables, and stakeholder communication.
+- Managed multiple concurrent projects using Asana, NetSuite, and Google, ensuring on-time completion and alignment with school-wide goals.
+- Developed and maintained detailed project plans, tracking progress, adjusting scope as needed, and providing status updates to leadership teams.
+- Facilitated regular check-ins and team collaboration meetings to ensure clarity, accountability, and momentum across virtual and hybrid teams.
+- Created and implemented feedback loops and reporting structures to evaluate project outcomes and apply data-driven improvements.  
 
-### ➗ Virtual Intermediate Math Teacher  
+### ➗ Virtual Educator  
 **Conroe ISD** • *Conroe, TX*  
-- Department chair for Math and Science, leading a team in curriculum development for 5th-grade math and advanced math courses.  
-- Designed eLearning courses with virtual manipulatives for district-wide use.  
-- Led professional development initiatives, organizing training sessions on virtual tools and techniques.  
-- Managed multiple projects, ensuring flexibility and organization to meet a growing student population’s needs.  
+- Spearheaded the integration of virtual manipulatives and eLearning resources for 5th-grade and advanced math courses.
+- Collaborated with leadership to design and launch foundational systems, including policy development, digital workflows, and comprehensive handbooks for students, families, and staff.
+- Led the layout and user experience design for the Canvas LMS platform, ensuring intuitive navigation and consistent structure across courses.
+- Contributed to onboarding strategy development for students and families, includingwelcome communications, tech walkthroughs, and resource kits.
+- Applied prior teaching experience to advise and refine school-wide policies and engagement strategies during the academy’s foundational years.
 
-### 📚 Math Interventionist  
+### 📚 Interventionist  
 **Stride: Texas Online Preparatory School** • *Virtual/Remote*    
-- Developed and implemented the RTI instructional system, significantly improving student achievement.  
-- Created and executed weekly live teaching sessions, using age-appropriate technology and LMS tools.  
-- Analyzed assessment data to create targeted instructional plans.  
-
+- Developed and implemented the RTI instructional system, significantly improving student achievement through targeted intervention strategies.
+- Created and executed weekly live teaching sessions, utilizing age-appropriate technology and virtual tools, including LMS platforms, to enhance learning outcomes.
+- Analyzed benchmarks, checkpoint, and state assessment data to create instructional plans tailored to student needs, collaborating with peers to ensure a positive and effective educational experience.
+  
 ### 🌍 Community Engagement Specialist  
 **Stride: Lone Star Online Academy** • *Virtual/Remote*   
-- Designed outreach programs and training sessions for families to foster a strong sense of community.  
-- Utilized Asana for project management and coordinated outreach initiatives.  
-- Analyzed data in NetSuite and Microsoft platforms to improve engagement strategies.  
+- Coordinated staff training sessions and team-building initiatives to strengthen internal culture and collaboration.
+- Created communication plans to keep faculty and staff informed on project updates, events, and best practices.
+- Worked closely with leadership to ensure alignment between staff engagement efforts and school-wide strategic goals.
+- Facilitated onboarding and mentorship programs to support new staff in acclimating to digital learning environments.
+- Tracked participation and feedback using project management tools to report on the effectiveness of engagement programs.
 
 ---
 
