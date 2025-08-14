@@ -38,7 +38,6 @@ Interact with the code here:
     const journeyToJupiter = 6.142466;  // Time to Jupiter
     const newEarthAge = userAge + journeyToJupiter;
     const newJupiterAge = newEarthAge / jupiterYears;
-
     document.getElementById('result').innerHTML = `
       <strong>Your Results:</strong><br>
       <strong>Earth Age:</strong> ${userAge} Earth years<br>
@@ -51,8 +50,7 @@ Interact with the code here:
 </script>
 
 
-Check the C# code out here:
-
+**Check the C# code out here⬇️**
      
       int userAge = 11;  // Your Age
       Console.WriteLine($"I am {userAge} Earth years old.");
