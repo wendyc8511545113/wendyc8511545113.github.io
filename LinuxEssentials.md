@@ -4,17 +4,17 @@ title: NetCad Linux Essentials
 subtitle: Linux Essentials
 ---
 
-The **NetCad Linux Essentials course** introduces learners to the fundamentals of the Linux operating system, focusing on command-line navigation, file management, and essential system tasks. It covers key concepts such as permissions, process control, networking basics, and shell scripting. Through hands-on labs and real-world scenarios, students gain practical experience working in a Linux environment. This course builds a strong foundation for further studies in system administration, cybersecurity, and open-source technologies.
+The **NetCad Linux Essentials course** within Cisco NetCad introduces learners to the fundamentals of the Linux operating system, focusing on command-line navigation, file management, and essential system tasks. It covers key concepts such as permissions, process control, networking basics, and shell scripting. Through hands-on labs and real-world scenarios, students gain practical experience working in a Linux environment. This course builds a strong foundation for further studies in system administration, cybersecurity, and open-source technologies.
 
-<p style="text-align: center;">➡️Check the <strong>Read Now</strong> below to check it out!⬅️</p>
+<p style="text-align: center;">➡️Check the <strong>Linux Essentials Badge</strong> below!⬅️</p>
 
-<div style="text-align: center;">
-    <iframe style="border: 1px solid #777;" 
-        src="https://indd.adobe.com/embed/87bcf18c-2df1-4681-9616-0c509bb48a19?startpage=1&allowFullscreen=true" 
-        width="800px" height="600px" frameborder="0" allowfullscreen="">
-    </iframe>
-</div>
+Just the badge: 
+<img src="assets/img/LinuxEssentialsBadge.png" alt="Linux Badge Displayed">
 
+Clickable Badge:
+<a href="https://www.credly.com/badges/089124d4-f559-41a1-ad10-9818b31ddd04/email" target="_blank">
+    <img src="assets/img/LinuxEssentialsBadge.png" alt="Linux Badge Displayed" width="200">
+</a>
 
 
 <!--
