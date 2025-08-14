@@ -20,6 +20,39 @@ This project is a great introduction to:
 - 🔹 **Function creation and method calls**  
 - 🔹 **Algorithm implementation for Fibonacci sequences**  
 
+**Play with the Fibonacci Series Calculator** 
+<form id="fibForm">
+    <label for="numTerms">Enter number of terms: </label>
+    <input type="number" id="numTerms" name="numTerms" required>
+    <button type="submit">Calculate</button>
+</form>
+
+<p id="fibResult"></p>
+
+<script>
+document.getElementById('fibForm').onsubmit = function(event) {
+    event.preventDefault();  // Prevent page reload
+
+    const terms = parseInt(document.getElementById('numTerms').value);
+    if (isNaN(terms) || terms <= 0) {
+        document.getElementById('fibResult').innerHTML = "Please enter a valid positive number!";
+        return;
+    }
+
+    const fibSeries = [];
+    for (let i = 0; i < terms; i++) {
+        if (i === 0) fibSeries.push(0);
+        else if (i === 1) fibSeries.push(1);
+        else fibSeries.push(fibSeries[i-1] + fibSeries[i-2]);
+    }
+
+    document.getElementById('fibResult').innerHTML = `
+        <strong>Fibonacci series for ${terms} terms:</strong><br>
+        ${fibSeries.join(', ')}
+    `;
+};
+</script>
+**Check the code out here**
 ```csharp <br>
                     using System; 
                     class FibonacciSeries 
