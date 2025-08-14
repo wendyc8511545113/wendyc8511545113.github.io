@@ -6,11 +6,10 @@ subtitle: Find out your age in Jupiter!
 
 # 🚀 How Old Are You on Jupiter? 🌌  
 
-Ever wondered how many years you've been around *if you lived on Jupiter*? 🪐 Well, wonder no more!  
+Ever wondered how many years you've been around *if you lived on Jupiter*? 
+🪐 Well, wonder no more!  
 
 This **C# program** calculates your **Jupiter age** based on Earth's years. Since Jupiter takes **11.86 Earth years** to orbit the Sun, you're *technically* much younger over there!  
-
-Interact with the code here:
 
 ### **Enter Your Earth Age**:
 <form id="ageForm">
