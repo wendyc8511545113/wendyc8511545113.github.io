@@ -20,7 +20,7 @@ This project is a great introduction to:
 - 🔹 **Function creation and method calls**  
 - 🔹 **Algorithm implementation for Fibonacci sequences**  
 
-**Play with the Fibonacci Series Calculator** 
+**Play with the Fibonacci Series Calculator**⬇️
 <form id="fibForm">
     <label for="numTerms">Enter number of terms: </label>
     <input type="number" id="numTerms" name="numTerms" required>
@@ -52,8 +52,8 @@ document.getElementById('fibForm').onsubmit = function(event) {
     `;
 };
 </script>
-**Check the code out here**
-```csharp <br>
+**Check the code out here**⬇️
+
                     using System; 
                     class FibonacciSeries 
                     { 
