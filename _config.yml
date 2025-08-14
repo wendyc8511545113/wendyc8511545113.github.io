@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Certs & Badges:  
-    - InDesign: "inDesign"
+    - Linux: "LinuxEssentials"
   Projects:  
     - InDesign: "inDesign"
     - Fibonacci: "FibonacciCode"
