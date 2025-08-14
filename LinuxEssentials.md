@@ -1,7 +1,7 @@
 ---
 layout: page
-title: NetCad Linux Essentials
-subtitle: Linux Essentials
+title: Linux Essentials
+subtitle: Linux Essentials Badge
 ---
 
 The **NetCad Linux Essentials course** within Cisco NetCad introduces learners to the fundamentals of the Linux operating system, focusing on command-line navigation, file management, and essential system tasks. It covers key concepts such as permissions, process control, networking basics, and shell scripting. Through hands-on labs and real-world scenarios, students gain practical experience working in a Linux environment. This course builds a strong foundation for further studies in system administration, cybersecurity, and open-source technologies.
