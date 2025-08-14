@@ -1,6 +1,6 @@
-    ---
+---
 layout: page
-title: C# Fibonacci
+title: C# Fibonacci Series
 subtitle: A C# coding project
 ---
 
