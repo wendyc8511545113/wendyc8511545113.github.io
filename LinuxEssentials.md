@@ -13,10 +13,10 @@ subtitle: Foundation in Open-Source Systems
 The **Linux Essentials course** (Cisco Networking Academy) introduces learners to the **core skills needed to work in Linux environments**.  
 
 ✅ **What I learned:**  
-> 💻 Command-line navigation & file management  
-> 🔒 System permissions & process control  
-> 🌐 Networking basics  
-> ⚙️ Shell scripting & automation  
+ &nbsp;&nbsp;&nbsp;&nbsp; 💻 Command-line navigation & file management  
+ &nbsp;&nbsp;&nbsp;&nbsp; 🔒 System permissions & process control  
+ &nbsp;&nbsp;&nbsp;&nbsp; 🌐 Networking basics  
+ &nbsp;&nbsp;&nbsp;&nbsp; ⚙️ Shell scripting & automation  
 
 🧑‍💻 Through **hands-on labs and real-world scenarios**, I built practical skills to manage and troubleshoot Linux systems.  
  
