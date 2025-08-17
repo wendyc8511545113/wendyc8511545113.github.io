@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux Essentials
-subtitle: Linux Essentials Badge
+subtitle: Foundation in Open-Source Systems
 ---
 <!-- Floating Badge -->
 <div style="position: fixed; top: 150px; left: 20px; z-index: 1000;">
@@ -10,10 +10,16 @@ subtitle: Linux Essentials Badge
     </a>
 </div>
 
-<p>
-The <strong>NetCad Linux Essentials course</strong> within Cisco NetCad introduces learners to the fundamentals of the Linux operating system, focusing on command-line navigation, file management, and essential system tasks. It covers key concepts such as permissions, process control, networking basics, and shell scripting. Through hands-on labs and real-world scenarios, students gain practical experience working in a Linux environment. This course builds a strong foundation for further studies in system administration, cybersecurity, and open-source technologies.
-</p>
+The **Linux Essentials course** (Cisco Networking Academy) introduces learners to the **core skills needed to work in Linux environments**.  
 
+✅ **What I learned:**  
+- 💻 Command-line navigation & file management  
+- 🔒 System permissions & process control  
+- 🌐 Networking basics  
+- ⚙️ Shell scripting & automation  
+
+🧑‍💻 Through **hands-on labs and real-world scenarios**, I built practical skills to manage and troubleshoot Linux systems.  
+ 
 <p style="text-align: center;">⬇️Check the <strong>Linux Essentials Certificate</strong> below!⬇️</p>
 
 <div style="text-align: center;">
