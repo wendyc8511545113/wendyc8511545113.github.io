@@ -21,9 +21,5 @@ The **NetCad Linux Essentials course** within Cisco NetCad introduces learners t
     </a>
 </div>
 
-<!--
-Responsive embed code
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; height:auto;">
-    <iframe src="https://indd.adobe.com/view/87bcf18c-2df1-4681-9616-0c509bb48a19" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0"></iframe>
-</div>
--->
+<h2>My Certificate</h2>
+<embed src="/assets/img/Linux_Essentials_certificate.pdf" type="application/pdf" width="100%" height="600px" />
