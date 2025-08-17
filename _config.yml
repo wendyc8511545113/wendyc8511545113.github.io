@@ -22,8 +22,8 @@ author: Wendy Caffey
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Certs:  
-    - Linux Essentials: "LinuxEssentials"
+  Certificates:  
+    - Linux: "LinuxEssentials"
   Projects:  
     - Adobe InDesign: "inDesign"
     - C# Fibonacci: "FibonacciCode"
