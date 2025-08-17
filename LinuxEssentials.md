@@ -4,7 +4,7 @@ title: Linux Essentials
 subtitle: Linux Essentials Badge
 ---
 <!-- Floating Badge -->
-<div style="position: fixed; top: 20px; right: 20px; z-index: 1000;">
+<div style="position: fixed; top: 40px; left: 20px; z-index: 1000;">
     <a href="https://www.credly.com/badges/089124d4-f559-41a1-ad10-9818b31ddd04/email" target="_blank">
         <img src="/assets/img/LinuxEssentialsBadge.png" alt="Linux Badge Displayed" width="120">
     </a>
