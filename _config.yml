@@ -22,12 +22,12 @@ author: Wendy Caffey
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Certs & Badges:  
-    - Linux: "LinuxEssentials"
+  Certs:  
+    - Linux Essentials: "LinuxEssentials"
   Projects:  
-    - InDesign: "inDesign"
-    - Fibonacci: "FibonacciCode"
-    - Jupiter Age: "JupiterAge"
+    - Adobe InDesign: "inDesign"
+    - C# Fibonacci: "FibonacciCode"
+    - C# Jupiter Age: "JupiterAge"
 
 ################
 # --- Logo --- #
