@@ -4,23 +4,17 @@ title: C# Fibonacci Series
 subtitle: A C# coding project
 ---
 
-This simple **C# console application** allows users to generate the Fibonacci sequence up to a specified number of terms. The program dynamically allocates memory, calculates the sequence efficiently, and validates user input to ensure a smooth experience. Users can repeatedly request Fibonacci sequences or exit the program by typing **"quit"**.  
+The **Fibonacci Series Calculator** is a simple C# console application that generates the **Fibonacci sequence** up to a user-specified number of terms. It includes **input validation**, **efficient calculations**, and a loop that allows users to generate multiple sequences or exit by typing *"quit"*.  
 
-## 🛠 Features  
-- ✅ **Accepts user input** for the number of terms  
-- ✅ **Dynamically allocates storage** for Fibonacci numbers  
-- ✅ **Uses a dedicated method** to compute the sequence  
-- ✅ **Returns success or error messages** based on input validation  
-- ✅ **Loops until the user decides to exit**  
+✅ **What I built:**  
+- 📝 Accepts user input for number of terms  
+- 📦 Dynamically allocates storage for Fibonacci numbers  
+- ⚙️ Uses a dedicated method to compute the sequence  
+- ✅ Provides success/error messages for input validation  
+- 🔄 Runs in a loop until the user chooses to exit    
 
-## 📚 Learning Outcomes  
-This project is a great introduction to:  
-- 🔹 **C# programming basics**  
-- 🔹 **Loops and arrays**  
-- 🔹 **Function creation and method calls**  
-- 🔹 **Algorithm implementation for Fibonacci sequences**  
-
-**Play with the Fibonacci Series Calculator**⬇️
+🎮 **Try it out:**  
+Play with the **Fibonacci Series Calculator** ⬇️    
 <form id="fibForm">
     <label for="numTerms">Enter number of terms: </label>
     <input type="number" id="numTerms" name="numTerms" required>
