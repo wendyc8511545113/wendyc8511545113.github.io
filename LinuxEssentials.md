@@ -14,7 +14,12 @@ The **NetCad Linux Essentials course** within Cisco NetCad introduces learners t
     </a>
 </div>
 
-
+<p style="text-align: center;">➡⬇️Check the <strong>Linux Essentials Certificate</strong> below!⬅⬇️</p>
+<div style="text-align: center;">
+    <a href="https://www.credly.com/badges/089124d4-f559-41a1-ad10-9818b31ddd04/email" target="_blank">
+        <img src="/assets/img/Linux_Essentials_certificate.pdf" alt="Linux Certificate Displayed" width="400">
+    </a>
+</div>
 
 <!--
 Responsive embed code
