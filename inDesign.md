@@ -4,12 +4,17 @@ title: Adobe InDesign
 subtitle: A simple project highlighting many interactives
 ---
 
-While taking an **Introduction to Digital Media course**, I had the opportunity to dive deeper into the features of **Adobe InDesign**, an industry-standard tool for design and digital publishing. The course offered hands-on experience with a variety of creative tools, and one of the first assignments was to create a short, dynamic slideshow that incorporated multiple features of InDesign, such as animation, embedded video, and interactive links.
+The **Introduction to Digital Media course** gave me the opportunity to explore **Adobe InDesign**, an industry-standard tool for design and digital publishing.  
 
-In a short period, I was able to harness the power of these tools to produce a polished and engaging project. The process involved using animation techniques to bring elements to life, incorporating video clips to enhance the narrative, and embedding interactive links to create a seamless and interactive viewer experience. This project allowed me to gain practical skills in digital media design and further explore the versatility of Adobe InDesign as both a layout and interactive design platform.
+✅ **What I learned:**  
+- 🎨 Creative design & layout techniques  
+- ✨ Animation to bring elements to life  
+- 🎬 Embedding video to enhance storytelling  
+- 🔗 Interactive links for an engaging user experience  
+
+🧑‍💻 Through **hands-on projects**, I created a polished, dynamic slideshow that combined animation, video, and interactivity — showcasing the versatility of InDesign as both a layout and interactive design platform.  
 
 <p style="text-align: center;">➡️Click <strong>Read Now</strong> below to check it out!⬅️</p>
-
 <div style="text-align: center;">
     <iframe style="border: 1px solid #777;" 
         src="https://indd.adobe.com/embed/87bcf18c-2df1-4681-9616-0c509bb48a19?startpage=1&allowFullscreen=true" 
