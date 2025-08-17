@@ -9,9 +9,16 @@ subtitle: Find out your age in Jupiter!
 Ever wondered how many years you've been around *if you lived on Jupiter*? 
 🪐 Well, wonder no more!  
 
-This **C# program** calculates your **Jupiter age** based on Earth's years. Since Jupiter takes **11.86 Earth years** to orbit the Sun, you're *technically* much younger over there!  
+The **Jupiter Age Calculator** is a fun C# console application that converts your **Earth age into Jupiter years**. Since Jupiter takes **11.86 Earth years** to orbit the Sun, your age appears much younger on the gas giant 🪐.  
 
-### **Enter Your Earth Age**:
+✅ **What I built:**  
+- ⌨️ Accepts user input for age in Earth years  
+- 🔄 Converts Earth years into Jupiter years  
+- 🪐 Displays results with accurate orbital calculation  
+- 💡 Simple, user-friendly console interaction  
+
+🎮 **Try it out:**  
+### **Enter Your Earth Age**⬇️:
 <form id="ageForm">
     <label for="earthAge">Enter your age in Earth years: </label>
     <input type="number" id="earthAge" name="earthAge" required>
