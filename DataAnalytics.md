@@ -6,7 +6,7 @@ subtitle: Foundation in Google Cloud
 <!-- Floating Badge -->
 <div style="position: fixed; top: 150px; left: 20px; z-index: 1000;">
     <a href="[https://www.credly.com/badges/089124d4-f559-41a1-ad10-9818b31ddd04/email](https://coursera.org/share/20bc7060f1cf1ae66dfde5a692ae28ab)" target="_blank">
-        <img src="/assets/img/LinuxEssentialsBadge.png" alt="Linux Badge Displayed" width="120">
+        <img src="/assets/img/Google Cloud Logo.png" alt="Google Cloud Logo Displayed" width="120">
     </a>
 </div>
 
