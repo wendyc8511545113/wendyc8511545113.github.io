@@ -13,10 +13,10 @@ subtitle: Foundation in Google Cloud
 The **Google Cloud Data Analytics course** introduces learners to the **foundational tools and concepts needed to analyze data using Google Cloud technologies**.  
 
 ✅ **What I learned:**  
- &nbsp;&nbsp;&nbsp;&nbsp; 📊 Data cleaning, transformation, and visualization <br>  
- &nbsp;&nbsp;&nbsp;&nbsp; ☁️ Working with BigQuery for large-scale data analysis <br>  
- &nbsp;&nbsp;&nbsp;&nbsp; 🔎 SQL for querying and managing datasets <br>  
- &nbsp;&nbsp;&nbsp;&nbsp; 📈 Building dashboards and reports with Looker Studio  <br>  
+ &nbsp;&nbsp;&nbsp;&nbsp; <p>📊 Data cleaning, transformation, and visualization</p>
+ &nbsp;&nbsp;&nbsp;&nbsp;  <p>☁️ Working with BigQuery for large-scale data analysis</p>
+ &nbsp;&nbsp;&nbsp;&nbsp;  <p>🔎 SQL for querying and managing datasets</p>  
+ &nbsp;&nbsp;&nbsp;&nbsp;  <p>📈 Building dashboards and reports with Looker Studio</p> 
 
 🧑‍💻 Through **hands-on labs and applied projects**, I gained practical experience in using cloud-based tools to turn raw data into meaningful insights for decision-making.
  
