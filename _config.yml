@@ -24,6 +24,7 @@ navbar-links:
   Resume: "resume"
   Certificates:  
     - Linux: "LinuxEssentials"
+    - Data Analytics: "DataAnalytics"
   Projects:  
     - Adobe InDesign: "inDesign"
     - C# Fibonacci: "FibonacciCode"
