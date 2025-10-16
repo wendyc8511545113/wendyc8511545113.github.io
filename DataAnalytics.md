@@ -20,8 +20,12 @@ The **Google Cloud Data Analytics course** introduces learners to the **foundati
 
 🧑‍💻 Through **hands-on labs and applied projects**, I gained practical experience in using cloud-based tools to turn raw data into meaningful insights for decision-making.
  
-<p style="text-align: center;">⬇️Check the <strong>Intro to Data Analytics in Google Cloud ceritifcate</strong> below!⬇️</p>
+<p style="text-align: center;">⬇️Check the <strong>Google Cloud Data Analytics Certificates</strong> below!⬇️</p>
 
 <div style="text-align: center;">
     <embed src="/assets/img/Intro to Data Analytics_Google Certificate.pdf" type="application/pdf" width="100%" height="600px" />
+</div>
+
+<div style="text-align: center;">
+    <embed src="/assets/img/DataManagement_Google Certificate.pdf" type="application/pdf" width="100%" height="600px" />
 </div>
