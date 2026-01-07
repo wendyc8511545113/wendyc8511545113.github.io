@@ -30,7 +30,7 @@ navbar-links:
   Certs:  
     - Linux: "LinuxEssentials"
     - Data Analytics: "DataAnalytics"
-  For Fun:  
+  Fun:  
     - Adobe InDesign: "inDesign"
     - C# Fibonacci: "FibonacciCode"
     - C# Jupiter Age: "JupiterAge"
