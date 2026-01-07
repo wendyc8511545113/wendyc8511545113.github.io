@@ -21,6 +21,13 @@ subtitle: Instructional Design | Multimedia Learning | Digital Training
         <p style="font-size: 14px; color: gray;">
             Tools: Canva, Google Slides, HTML/CSS
         </p>
+        <p style="margin-top: 20px;">
+    <a href="{{ site.baseurl }}/InteractiveLearning"
+       style="text-decoration: none; font-weight: bold; font-size: 16px;">
+        View Interactive Learning Samples →
+    </a>
+</p>
+
     </div>
 
     <!-- Column 2 -->
