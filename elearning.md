@@ -67,6 +67,13 @@ subtitle: Instructional Design | Multimedia Learning | Digital Training
         <p style="font-size: 14px; color: gray;">
             Methods: ADDIE, data-informed design
         </p>
+        <p style="margin-top: 20px;">
+    <a href="{{ site.baseurl }}/DesignProcessEval"
+       style="text-decoration: none; font-weight: bold; font-size: 16px;">
+        View Design Process & Evaluation →
+    </a>
+</p>
+
     </div>
 
 </div>
