@@ -22,7 +22,7 @@ author: Wendy Caffey
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  eLearning: "eLearning"
+  eLearning: "elearning"
   Certificates:  
     - Linux: "LinuxEssentials"
     - Data Analytics: "DataAnalytics"
