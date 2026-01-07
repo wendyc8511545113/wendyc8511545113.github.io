@@ -24,13 +24,10 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   eLearning: "elearning"
-    - Interactive Learning: "_layouts/DesignProcessEval"
-    - Multimedia Design: "_layouts/MultimediaDesign"
-    - Design Process & Evaluation: "_layouts/DesignProcessEval"
   Certs:  
     - Linux: "LinuxEssentials"
     - Data Analytics: "DataAnalytics"
-  Fun:  
+  For Fun:  
     - Adobe InDesign: "inDesign"
     - C# Fibonacci: "FibonacciCode"
     - C# Jupiter Age: "JupiterAge"
