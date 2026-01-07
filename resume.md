@@ -21,15 +21,19 @@ subtitle: Curriculum Designer | Web Programmer | Lifelong Learner
 **Bachelor of Science in Interdisciplinary Studies**  
  *Sam Houston State University* &nbsp; _(2016)_
 
-**Cloud Computing Level 1 Certification**  
-*Lone Star College* &nbsp; _(2025)_
-
 **Associate of Applied Science in Cloud Computing**  
 *Lone Star College* &nbsp; _(2026)_
 
 ---
 
 ## 💼 **Experience**
+
+### ⚙️ Operations Specialist  
+**Stride: K12 Tutoring** • *Virtual/Remote*  
+- Managed daily operational workflows and supported staff with scheduling, onboarding, and instructional tools to ensure smooth delivery of tutoring services.
+- Developed and maintained dashboards and reports using Microsoft Power BI and Google Sheets to track student progress, attendance, and engagement metrics.
+- Coordinated cross-functional communications between instructors, families, and leadership teams, providing timely updates and guidance on operational processes.
+- Streamlined operational procedures and digital resources to improve efficiency, consistency, and accessibility across virtual platforms.
 
 ### 🧑‍💻 Engagement Specialist  
 **Stride: Lone Star Online Academy** • *Virtual/Remote*  
@@ -46,8 +50,8 @@ subtitle: Curriculum Designer | Web Programmer | Lifelong Learner
 - Facilitated regular check-ins and team collaboration meetings to ensure clarity, accountability, and momentum across virtual and hybrid teams.
 - Created and implemented feedback loops and reporting structures to evaluate project outcomes and apply data-driven improvements.  
 
-### ➗ Virtual Educator  
-**Conroe ISD** • *Conroe, TX*  
+### ➗ Educator  
+**Conroe Independent School District** • *Conroe, TX*  
 - Spearheaded the integration of virtual manipulatives and eLearning resources for 5th-grade and advanced math courses.
 - Collaborated with leadership to design and launch foundational systems, including policy development, digital workflows, and comprehensive handbooks for students, families, and staff.
 - Led the layout and user experience design for the Canvas LMS platform, ensuring intuitive navigation and consistent structure across courses.
