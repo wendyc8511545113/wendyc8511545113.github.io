@@ -44,6 +44,13 @@ subtitle: Instructional Design | Multimedia Learning | Digital Training
         <p style="font-size: 14px; color: gray;">
             Tools: Canva, Video Editing Tools
         </p>
+        <p style="margin-top: 20px;">
+    <a href="{{ site.baseurl }}/MultimediaDesign"
+       style="text-decoration: none; font-weight: bold; font-size: 16px;">
+        View Multimedia Design Samples →
+    </a>
+</p>
+
     </div>
 
     <!-- Column 3 -->
