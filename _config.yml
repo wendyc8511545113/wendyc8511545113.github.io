@@ -26,10 +26,10 @@ navbar-links:
     - Interactive Learning: "_layouts/DesignProcessEval"
     - Multimedia Design: "_layouts/MultimediaDesign"
     - Design Process & Evaluation: "_layouts/DesignProcessEval"
-  Certificates:  
+  Certs:  
     - Linux: "LinuxEssentials"
     - Data Analytics: "DataAnalytics"
-  Projects:  
+  For Fun:  
     - Adobe InDesign: "inDesign"
     - C# Fibonacci: "FibonacciCode"
     - C# Jupiter Age: "JupiterAge"
