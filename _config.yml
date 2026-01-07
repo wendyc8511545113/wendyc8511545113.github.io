@@ -23,6 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   eLearning: "elearning"
+    - Interactive Learning: "_layouts/DesignProcessEval"
+    - Multimedia Design: "_layouts/MultimediaDesign"
+    - Design Process & Evaluation: "_layouts/DesignProcessEval"
   Certificates:  
     - Linux: "LinuxEssentials"
     - Data Analytics: "DataAnalytics"
