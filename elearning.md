@@ -27,7 +27,6 @@ subtitle: Instructional Design | Multimedia Learning | Digital Training
         View Interactive Learning Samples →
     </a>
 </p>
-
     </div>
 
     <!-- Column 2 -->
