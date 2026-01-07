@@ -22,7 +22,7 @@ subtitle: Instructional Design | Multimedia Learning | Digital Training
             Tools: Canva, Google Slides, HTML/CSS
         </p>
         <p style="margin-top: 20px;">
-    <a href="https://wendyc8511545113.github.io/InteractiveLearning"   /* Edited the sitebased url */
+    <a href=""{{ site.baseurl }}/InteractiveLearning" 
        style="text-decoration: none; font-weight: bold; font-size: 16px;">
         View Interactive Learning Samples →
     </a>
